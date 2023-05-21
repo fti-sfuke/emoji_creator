@@ -70,6 +70,8 @@ This is a Python project that uses machine learning to generate emojis based on 
     angry.png  disgusted.png  fearful.png  happy.png  neutral.png  sad.png  surpriced.png
     root@samadhan_hp:/home/samadhan/emoji_creator/emoji_dataset#
  ``` 
+ ![image](https://github.com/fti-sfuke/emoji_creator/assets/87641643/3d9084fb-fa1b-4709-affe-db566ba57667)
+
     
 ## Customization
 
@@ -87,4 +89,4 @@ Feel free to modify the README file to include additional information specific t
 
 ## Copyrights
 - Samadhan Fuke
-- https://www.linkedin.com/in/samadhanfuke/
+- https://www.linkedin.com/in/samadhanfuke/ 
