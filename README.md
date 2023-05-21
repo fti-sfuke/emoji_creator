@@ -81,7 +81,7 @@ This is a Python project that uses machine learning to generate emojis based on 
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements for the project, feel free to open issues or submit pull requests.
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
