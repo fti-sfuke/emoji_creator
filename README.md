@@ -38,8 +38,10 @@ This is a Python project that uses machine learning to generate emojis based on 
    3. images are resized to (64, 64) pixels. You can adjust the resizing dimensions based on your requirements.
    4. Image Content: Each image should represent a single emoji. The content of the image should be a clear representation of the       emoji it represents.
 
-For example, if you want to train the model to generate emojis for emotions like happy, sad, and angry, you can have image files in the `emoji_dataset` folder named `happy.png`, `sad.png`, `angry.png`, and so on. Each image should contain a visual representation of the corresponding emotion.
-
+   For example, if you want to train the model to generate emojis for emotions like happy, sad, and angry, you can have image    
+   files in the `emoji_dataset` folder named `happy.png`, `sad.png`, `angry.png`, and so on. Each image should contain a visual 
+   representation of the corresponding emotion.
+   
    - Add image files to the ```emoji_dataset``` folder Each image should represent a single emoji.
 
  ## Train the model:
